@@ -1,0 +1,1 @@
+body{margin:0;background-color:#222;font-family:Arial,sans-serif}button{pointer-events:all;border-radius:.5em;background:#206590;border:none;color:#eee;transition:color .3s,background .3s;cursor:pointer;font-size:inherit;font-family:inherit;margin:.2em;padding:.5em 1em}button:disabled{color:#b1b1b1;background:#195173}
